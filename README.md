@@ -124,6 +124,7 @@ The app runs at `http://localhost:5173`.
 
 **Vedha Sri D**
 GitHub: [@VedhaSriD](https://github.com/VedhaSriD)
+https://vitalis-clinic-dashboard-iota.vercel.app
 
 Available for freelance work on dashboards and websites for clinics and small businesses.
 
