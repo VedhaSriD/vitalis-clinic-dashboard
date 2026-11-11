@@ -18,25 +18,12 @@ Manage patients, appointments, doctors and billing from one calm, fast interface
 
 ---
 
-## 📸 Preview
+<img width="1912" height="913" alt="image" src="https://github.com/user-attachments/assets/b6c2394c-541a-442b-a6a5-b3a2a5f6b2cc" />
+<img width="1867" height="911" alt="image" src="https://github.com/user-attachments/assets/2ea0bc7c-44fb-46a8-a531-1666225c5e78" />
+<img width="1916" height="916" alt="image" src="https://github.com/user-attachments/assets/c05bcaf8-0abe-4d9e-9a40-4385e5bd7f7f" />
+<img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/a94a68f8-2368-41ab-b0e6-c4d82f4db900" />
 
-![Overview](<img width="1915" height="917" alt="image" src="https://github.com/user-attachments/assets/15eec396-c6d5-4b15-85f5-892b38253db1" />
-)
 
-<table>
-  <tr>
-    <td><img src="<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/c2f2ecda-b2d3-4601-8e51-d5200d1d8652" />
-" alt="Patients" /></td>
-    <td><img src="<img width="1915" height="917" alt="image" src="https://github.com/user-attachments/assets/411e7796-467e-4062-bc67-38513a4b42ad" />
-" alt="Appointments" /></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/304f7ce3-c976-4321-9d03-b0da4a689a09" />
-" alt="Doctors" /></td>
-    <td><img src="<img width="1906" height="897" alt="image" src="https://github.com/user-attachments/assets/37b829d5-50aa-4239-a0c2-0c4c2768cb33" />
-" alt="Billing" /></td>
-  </tr>
-</table>
 
 ---
 
