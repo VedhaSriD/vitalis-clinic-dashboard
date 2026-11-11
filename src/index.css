@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FAF6EE;
+    color: #1E1E22;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Fraunces', serif;
+  }
+}
+
+/* Custom modern clinic scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1EADC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D5CEBE;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B5AD9C;
+}
